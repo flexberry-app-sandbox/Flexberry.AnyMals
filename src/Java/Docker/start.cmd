@@ -1,0 +1,1 @@
+docker-compose -p anymals-java up -d

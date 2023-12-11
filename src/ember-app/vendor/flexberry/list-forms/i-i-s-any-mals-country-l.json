@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-any-mals-country-e",
+  "editForm": "i-i-s-any-mals-country-e",
+  "external": false,
+  "caption": "Country",
+  "name": "IISAnyMalsCountryL",
+  "className": "CountryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-any-mals-country",
+      "modelProjection": "CountryL"
+    }
+  ]
+}

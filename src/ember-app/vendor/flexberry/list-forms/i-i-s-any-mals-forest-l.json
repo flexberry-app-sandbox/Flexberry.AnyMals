@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-any-mals-forest-e",
+  "editForm": "i-i-s-any-mals-forest-e",
+  "external": false,
+  "caption": "Forest",
+  "name": "IISAnyMalsForestL",
+  "className": "ForestL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-any-mals-forest",
+      "modelProjection": "ForestL"
+    }
+  ]
+}

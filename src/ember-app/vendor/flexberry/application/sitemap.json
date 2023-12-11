@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Any mals",
+  "applicationTitle": "Any mals",
+  "items": [
+    {
+      "link": null,
+      "menuName": "any-mals",
+      "caption": "AnyMals",
+      "title": "AnyMals",
+      "children": [
+        {
+          "link": "i-i-s-any-mals-animal-l",
+          "menuName": null,
+          "caption": "Animal",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-any-mals-forest-l",
+          "menuName": null,
+          "caption": "Forest",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-any-mals-country-l",
+          "menuName": null,
+          "caption": "Country",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

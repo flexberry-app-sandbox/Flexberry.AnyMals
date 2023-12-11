@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-any-mals-animal-e",
+  "editForm": "i-i-s-any-mals-animal-e",
+  "external": false,
+  "caption": "Animal",
+  "name": "IISAnyMalsAnimalL",
+  "className": "AnimalL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-any-mals-animal",
+      "modelProjection": "AnimalL"
+    }
+  ]
+}
